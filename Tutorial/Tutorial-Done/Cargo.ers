@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<com.corticon.rulesemf.assetmodel:RulesheetAsset xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.corticon.rulesemf.asg="http:///com/corticon/rulesemf/asg.ecore" xmlns:com.corticon.rulesemf.assetmodel="http:///com/corticon/rulesemf/assetmodel.ecore" xmlns:com.corticon.rulesemf.viewrulemodel.rulesheet.decisiontable="http:///com/corticon/rulesemf/viewrulemodel/rulesheet/decisiontable.ecore" majorVersionNumber="7" minorVersionNumber="1" majorServiceNumber="1" minorServiceNumber="1" buildNumber="8022" updateStamp="_5NzfQ269EfC-zJssOnmhVg" externalChecksum="2722078124:2418513761:1855534158" studioType="Java">
+<com.corticon.rulesemf.assetmodel:RulesheetAsset xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.corticon.rulesemf.asg="http:///com/corticon/rulesemf/asg.ecore" xmlns:com.corticon.rulesemf.assetmodel="http:///com/corticon/rulesemf/assetmodel.ecore" xmlns:com.corticon.rulesemf.viewrulemodel.rulesheet.decisiontable="http:///com/corticon/rulesemf/viewrulemodel/rulesheet/decisiontable.ecore" majorVersionNumber="7" minorVersionNumber="1" majorServiceNumber="1" minorServiceNumber="1" buildNumber="8022" updateStamp="_B0fLw26_EfCi-pSJfP7BVw" externalChecksum="2722078124:2418513761:1855534158" studioType="Java">
   <languageCode>en_US</languageCode>
   <ruleset vocabularyUpdateStamp="_uB8PsHnQEeWPD6KBOaVS3g" vocabulary="Cargo.ecore#/">
     <rule>
@@ -147,8 +147,8 @@
       </text>
     </ruleStatement>
     <ruleStatement post="Info" ruleModelElements="#//@ruleset/@rules.2" logicalVariable="#//@ruleset/@logicalVariables.0">
-      <text expression="Cargo with volume > 30 cubic meters must be packaged in an oversize container.">
-        <parserOutput xsi:type="com.corticon.rulesemf.asg:Expression" text="Cargo with volume > 30 cubic meters must be packaged in an oversize container." expressiontype="BRSTATEMENT">
+      <text expression="hmoi Cargo with volume > 30 cubic meters must be packaged in an oversize container.">
+        <parserOutput xsi:type="com.corticon.rulesemf.asg:Expression" text="hmoi Cargo with volume > 30 cubic meters must be packaged in an oversize container." expressiontype="BRSTATEMENT">
           <referencedTermList/>
         </parserOutput>
       </text>
@@ -211,8 +211,8 @@
       </ruleStatementItemList>
       <ruleStatementItemList ruleStatement="#//@ruleset/@ruleStatements.1">
         <reference external="2"/>
-        <text external="Cargo with volume > 30 cubic meters must be packaged in an oversize container.">
-          <parserOutput xsi:type="com.corticon.rulesemf.asg:Expression" text="Cargo with volume > 30 cubic meters must be packaged in an oversize container." expressiontype="BRSTATEMENT">
+        <text external="hmoi Cargo with volume > 30 cubic meters must be packaged in an oversize container.">
+          <parserOutput xsi:type="com.corticon.rulesemf.asg:Expression" text="hmoi Cargo with volume > 30 cubic meters must be packaged in an oversize container." expressiontype="BRSTATEMENT">
             <referencedTermList/>
           </parserOutput>
         </text>
