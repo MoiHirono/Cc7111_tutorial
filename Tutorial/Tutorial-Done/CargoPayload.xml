@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CorticonRequest xmlns="urn:Corticon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" decisionServiceName="Cargo">
+  <WorkDocuments>
+    <Cargo id="Cargo_id_1">
+      <weight>1000</weight>
+      <volume>10</volume>
+      <container xsi:nil="true" />
+    </Cargo>
+    <Cargo id="Cargo_id_2">
+      <weight>1000</weight>
+      <volume>40</volume>
+      <container xsi:nil="true" />
+    </Cargo>
+    <Cargo id="Cargo_id_3">
+      <weight>30000</weight>
+      <volume>20</volume>
+      <container xsi:nil="true" />
+    </Cargo>
+    <Cargo id="Cargo_id_4">
+      <weight>1000</weight>
+      <volume>10</volume>
+      <container xsi:nil="true" />
+      <needsRefrigeration>true</needsRefrigeration>
+    </Cargo>
+  </WorkDocuments>
+</CorticonRequest>
+

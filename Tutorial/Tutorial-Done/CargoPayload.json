@@ -1,0 +1,43 @@
+{
+    "__metadataRoot": {},
+    "name": "Cargo",
+    "Objects": [
+        {
+            "volume": 10,
+            "container": null,
+            "weight": 1000,
+            "__metadata": {
+                "#type": "Cargo",
+                "#id": "Cargo_id_1"
+            }
+        },
+        {
+            "volume": 40,
+            "container": null,
+            "weight": 1000,
+            "__metadata": {
+                "#type": "Cargo",
+                "#id": "Cargo_id_2"
+            }
+        },
+        {
+            "volume": 20,
+            "container": null,
+            "weight": 30000,
+            "__metadata": {
+                "#type": "Cargo",
+                "#id": "Cargo_id_3"
+            }
+        },
+        {
+            "volume": 10,
+            "container": null,
+            "needsRefrigeration": true,
+            "weight": 1000,
+            "__metadata": {
+                "#type": "Cargo",
+                "#id": "Cargo_id_4"
+            }
+        }
+    ]
+}
